@@ -1,2 +1,2 @@
 # 無聊的開發者
-甘濂盛
+My name is Frank-Kam & 甘濂盛 & Frank & GAN,LIANSHENG
