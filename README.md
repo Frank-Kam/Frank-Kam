@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Frank</h1>
 <h3 align="center">A junior backend developer & CTF Player from Taiwan!</h3>
 
-- 🌱 I’m currently learning **Frontend Framework**
-
 - 🔗 My link page here  **[frankk.uk](https://frankk.uk)**
 
 - 📫 How to mail me **[mail@frankk.uk](mailto:mail@frankk.uk)**
