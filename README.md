@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi , I'm Frank</h1>
-<h3 align="center">A junior backend developer & CTF Player from ICEDTEA & A Hight-School student!</h3>
+<h3 align="center">A junior Backend Developer & CTF Player from ICEDTEA & A High-School Student!</h3>
 
 
 - 🔗 My link page here  **[frankk.uk](https://frankk.uk)**
