@@ -8,13 +8,14 @@
 
 - ✍️ My blog here  **[blog.frankk.uk](https://blog.frankk.uk)**
 
-
 <div align="center">
   <h1>📊 GitHub Status</h1>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Frank-kam&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frank-kam&theme=nightowl&hide_border=false" />
-  </p>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Frank-kam&theme=nightowl&show_icons=true&hide_border=false&count_private=true" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Frank-kam&theme=nightowl&hide_border=false" /></td>
+    </tr>
+  </table>
 </div>
 
 <h1 align="center">🖥️ Skill</h1>
