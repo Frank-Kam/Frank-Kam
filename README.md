@@ -18,7 +18,7 @@
   </table>
 </div>
 
-<h1 align="center">🖥️ Skill</h1>
+<h1 align="center">🖥️ Skills</h1>
 <div align="center">
 <h3>Language</h3>
 <img src="https://skillicons.dev/icons?i=go,c,cpp,php,python,ts,js" />
