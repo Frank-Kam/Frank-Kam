@@ -4,7 +4,7 @@
 
 - 🔗 My link page here  **[frk.tw](https://frk.tw)**
 
-- 📫 How to contact me **[mail+ghpf@frankk.uk](mailto:mail+ghpf@frankk.uk)**
+- 📫 How to contact me **[mail@frk.tw](mailto:mail@frk.tw)**
 
 - ✍️ My blog here  **[blog.frk.tw](https://blog.frk.tw)**
 
