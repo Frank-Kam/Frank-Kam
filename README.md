@@ -2,11 +2,11 @@
 <h3 align="center">A junior Backend Developer & CTF Player from ICEDTEA & A High-School Student!</h3>
 
 
-- 🔗 My link page here  **[frankk.uk](https://frankk.uk)**
+- 🔗 My link page here  **[frk.tw](https://frk.tw)**
 
 - 📫 How to contact me **[mail+ghpf@frankk.uk](mailto:mail+ghpf@frankk.uk)**
 
-- ✍️ My blog here  **[blog.frankk.uk](https://blog.frankk.uk)**
+- ✍️ My blog here  **[blog.frk.tw](https://blog.frk.tw)**
 
 <div align="center">
   <h1>📊 GitHub Status</h1>
