@@ -1,7 +1,3 @@
-<h1 align="center">👋 Hi , I'm Frank</h1>
-<h3 align="center">A junior Backend Developer & CTF Player from ICEDTEA & A High-School Student!</h3>
-
-
 - 🔗 My link page here  **[frk.tw](https://frk.tw)**
 
 - 📫 How to contact me **[mail@frk.tw](mailto:mail@frk.tw)**
