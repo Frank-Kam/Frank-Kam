@@ -2,7 +2,7 @@
 
 - 📫 How to contact me **[mail@frk.tw](mailto:mail@frk.tw)**
 
-- ✍️ My blog here  **[blog.frk.tw](https://blog.frk.tw)**
+- ✍️ My blog here  **[blog.frk.tw](https://blog.frk.tw)**  
 
 <div align="center">
   <h1>📊 GitHub Status</h1>
